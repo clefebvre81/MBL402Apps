@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Week1AppCL5837</string>
+    <string name="hello">Hello Android, my name is Chris Lefebvre.</string>
+    <string name="add_message">Add Message</string>
+    <string name="new_message">This is new message!</string>
+</resources>
